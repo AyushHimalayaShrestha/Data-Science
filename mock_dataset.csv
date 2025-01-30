@@ -1,0 +1,201 @@
+ID,Name,Age,City,Salary,Department,Joining Date,Status
+1,Emily Velasquez,54,New York,72765,Marketing,2021-12-27,Active
+2,Heather White,41,Houston,94297,HR,2014-12-07,Resigned
+3,Yvonne Tucker,47,Los Angeles,92338,Marketing,2019-07-11,Active
+4,William Velez,22,Chicago,59292,IT,2019-01-04,Active
+5,Daniel Baker,22,Los Angeles,69785,HR,2021-12-17,Active
+6,Jordan Frost,21,New York,93076,Finance,2023-11-05,Resigned
+7,Kelly Kaiser,39,New York,53619,Operations,2024-03-07,Active
+8,Jordan Jones,32,Phoenix,89231,Operations,2015-05-30,Resigned
+9,Michael Snyder,59,Phoenix,85548,Operations,2021-12-07,Active
+10,Adam Chung,25,New York,80361,IT,2016-04-23,Resigned
+11,Barbara Patterson,50,Houston,81382,Marketing,2015-01-19,Resigned
+12,Daniel Perez,48,Houston,79090,Marketing,2020-02-22,Resigned
+13,Henry Noble,26,Chicago,82910,HR,2017-03-04,Resigned
+14,Kimberly Spears,30,Phoenix,68280,Finance,2018-06-19,Resigned
+15,Emily Taylor,39,New York,34048,Operations,2019-09-26,Active
+16,Travis Smith,24,Los Angeles,96231,IT,2019-02-11,Resigned
+17,Mark White,46,Chicago,97055,Operations,2017-10-08,Active
+18,Gerald Harris,52,Los Angeles,80849,Finance,2016-11-18,Resigned
+19,Daniel Watkins,29,Houston,36701,Operations,2018-04-09,Resigned
+20,Lawrence Gillespie,47,Phoenix,84803,Finance,2018-09-17,Active
+21,Alexander Rowe,27,Chicago,53177,Operations,2016-08-18,Resigned
+22,Daniel Andrews,55,Los Angeles,32769,HR,2021-03-21,Resigned
+23,Daniel Hill,21,Houston,71749,Marketing,2018-06-02,Resigned
+24,Matthew Davenport,37,New York,34555,HR,2024-01-17,Resigned
+25,Matthew Singleton,57,Houston,39265,Finance,2020-04-10,Active
+26,Adam Tyler,55,New York,41344,Finance,2015-02-25,Resigned
+27,Jason Knox,33,Los Angeles,94155,Operations,2017-04-15,Active
+28,Joshua Anderson,26,Los Angeles,49059,HR,2022-11-15,Resigned
+29,Margaret Carter,47,New York,90100,HR,2017-10-01,Active
+30,Phyllis Black,20,Los Angeles,91647,IT,2022-06-30,Active
+31,Michael Irwin,28,Phoenix,38882,HR,2023-08-14,Active
+32,Tyler Richmond,48,Phoenix,71056,Marketing,2022-01-07,Active
+33,Michael Gibbs,57,Chicago,33221,IT,2015-03-09,Active
+34,Christina Schmidt,49,Houston,54307,Finance,2017-10-03,Active
+35,William Ferguson,60,New York,94500,HR,2023-10-27,Active
+36,Jeffrey Robinson,51,Los Angeles,31062,Finance,2022-10-13,Resigned
+37,Matthew Mcdaniel,54,New York,70523,IT,2021-08-18,Resigned
+38,Timothy Meyer,41,Chicago,57522,IT,2018-12-25,Resigned
+39,Diane Adkins,38,Houston,81595,Marketing,2021-11-12,Active
+40,David Hicks,53,Los Angeles,40049,HR,2021-02-20,Active
+41,Alexandra Montgomery,28,Los Angeles,39990,Finance,2023-09-03,Resigned
+42,Brent Hall,36,Phoenix,64124,Operations,2019-03-25,Resigned
+43,Michelle Juarez,54,Houston,52153,Marketing,2018-12-01,Active
+44,Jared Ramirez,23,Los Angeles,42811,Finance,2017-08-10,Active
+45,Robin Nguyen,20,New York,33013,Marketing,2022-04-05,Resigned
+46,James Lewis,26,Phoenix,35684,Finance,2022-11-05,Active
+47,Mark Montgomery,39,Phoenix,61963,Finance,2024-10-01,Active
+48,Vernon Fowler,19,Phoenix,89644,Finance,2017-01-29,Resigned
+49,Stacy Harris,28,Los Angeles,63381,Finance,2018-12-10,Resigned
+50,Jonathan Lamb,54,Phoenix,65230,Marketing,2018-09-08,Active
+51,Justin Harris,44,Los Angeles,80706,Finance,2018-01-08,Active
+52,Vanessa Wilcox,20,New York,54081,Finance,2016-10-27,Resigned
+53,Andrew Palmer,45,Houston,30675,Finance,2019-03-29,Active
+54,Travis Johnson,48,Los Angeles,52177,HR,2020-12-26,Active
+55,Scott Crawford,41,New York,58600,Marketing,2023-04-17,Active
+56,Mindy Sanders,25,New York,78116,Finance,2017-01-23,Active
+57,Martin Rhodes,38,Phoenix,51518,Finance,2015-03-18,Resigned
+58,Rebecca Ward,34,Chicago,32684,IT,2023-01-27,Resigned
+59,Daniel Ball,30,Los Angeles,71316,Finance,2021-08-12,Active
+60,Rebecca Day,51,Chicago,36821,Marketing,2020-01-28,Active
+61,Daniel Johnson DDS,59,Chicago,73692,Finance,2022-12-24,Active
+62,Christian Beck,44,New York,64814,Marketing,2015-03-11,Active
+63,Molly Rogers,26,Los Angeles,71898,HR,2015-07-17,Resigned
+64,Laurie Baker,54,New York,51196,HR,2022-08-06,Resigned
+65,Aaron Mccarthy,36,Los Angeles,44282,Operations,2015-07-30,Active
+66,Angela Thomas,41,Chicago,99711,Finance,2020-10-04,Active
+67,Christopher Diaz,50,Los Angeles,34674,IT,2017-06-07,Resigned
+68,Jeffery Kim,48,Chicago,64297,Operations,2022-09-20,Active
+69,Jason Holmes,44,Houston,90857,HR,2021-01-02,Active
+70,Travis Smith,22,Chicago,75193,Marketing,2015-09-13,Active
+71,Willie Miller,35,Los Angeles,35949,Finance,2023-12-17,Active
+72,Cassandra Macdonald,53,Houston,85802,Marketing,2022-02-25,Resigned
+73,Dr. William Brown,55,Phoenix,61931,IT,2018-07-09,Active
+74,Jeremy Blake,56,New York,98262,IT,2022-08-31,Active
+75,Peter Williamson,59,Houston,66813,Finance,2024-11-15,Active
+76,Brent Frye,29,Phoenix,30075,Finance,2021-05-24,Resigned
+77,Jamie Sullivan,21,Los Angeles,31808,IT,2021-03-10,Active
+78,Mark Potter,33,Los Angeles,69446,HR,2019-10-22,Active
+79,Brett Aguilar,59,New York,66684,Finance,2014-12-24,Resigned
+80,Victoria Harrison,39,Houston,40315,IT,2016-06-11,Active
+81,Chad Young,23,Phoenix,64283,IT,2015-08-30,Active
+82,Ricardo Smith,38,New York,60715,Operations,2024-10-19,Active
+83,Michelle Steele,41,Phoenix,51327,HR,2015-09-05,Resigned
+84,Donna Hebert,40,Chicago,57726,Marketing,2017-08-15,Active
+85,Bethany Phillips,43,Los Angeles,36723,Operations,2024-06-27,Resigned
+86,Alexander Jackson,27,Chicago,75013,Marketing,2019-01-31,Active
+87,Laurie Suarez,33,Chicago,48437,Marketing,2020-10-30,Resigned
+88,James Ellis,45,Los Angeles,60902,HR,2016-09-11,Resigned
+89,Victor Hull,43,Los Angeles,44807,IT,2023-12-04,Resigned
+90,Ann Snyder DDS,23,New York,42825,Finance,2017-07-10,Resigned
+91,Angela Jones,35,Los Angeles,52152,HR,2020-11-23,Active
+92,Virginia Fletcher,46,New York,86677,Operations,2017-07-10,Active
+93,Michael Washington,21,Houston,76453,HR,2016-03-22,Resigned
+94,Lisa Mitchell,36,New York,33504,Finance,2019-05-15,Active
+95,Christina Ruiz,41,Houston,77119,HR,2022-05-28,Resigned
+96,Kimberly Hampton,59,Los Angeles,53628,HR,2016-04-25,Resigned
+97,Michele Jones,34,Los Angeles,88160,IT,2021-12-15,Resigned
+98,Jesse Barnett,55,Phoenix,71546,Operations,2016-08-16,Resigned
+99,Kimberly Hatfield,50,New York,66969,HR,2020-11-18,Resigned
+100,Eddie Reed,50,Houston,36881,HR,2017-04-11,Active
+101,Vincent Ramirez,51,Houston,48716,Marketing,2020-09-01,Resigned
+102,Julian Meyer,46,Los Angeles,54874,Marketing,2015-08-02,Resigned
+103,Eric Thomas,42,Los Angeles,82666,Marketing,2022-06-27,Resigned
+104,Amy Sims,21,Phoenix,54762,HR,2015-08-17,Active
+105,Heather Rice,30,Phoenix,36487,HR,2015-03-28,Resigned
+106,Thomas Murphy,52,Phoenix,55860,IT,2023-10-13,Active
+107,April Patterson,38,Houston,34398,IT,2022-09-10,Resigned
+108,Anne Mills,21,New York,38428,IT,2015-04-03,Active
+109,Michelle Daugherty,36,Chicago,31537,IT,2024-01-03,Active
+110,Samantha Morton,55,Houston,98750,Operations,2022-04-20,Resigned
+111,Mary Boyer,37,New York,36988,IT,2017-01-03,Active
+112,Joseph Carney,23,Phoenix,71620,IT,2018-06-22,Resigned
+113,Gina Valdez,29,Los Angeles,61931,Marketing,2015-02-17,Resigned
+114,Daniel Young,21,Phoenix,40811,IT,2017-05-14,Resigned
+115,Whitney Thomas,19,Houston,92359,Operations,2018-05-02,Active
+116,Cynthia Wilson,46,Los Angeles,49534,IT,2016-11-04,Resigned
+117,James Saunders,29,New York,43551,IT,2021-09-20,Active
+118,Matthew Garcia,41,Chicago,37742,Operations,2024-08-29,Active
+119,Emily Sims,26,Houston,31235,Operations,2016-10-10,Active
+120,Joel Reeves,29,Phoenix,92584,IT,2023-07-21,Resigned
+121,Cole Charles,55,Houston,56941,Marketing,2016-06-20,Resigned
+122,Dr. Danielle Ballard,40,Los Angeles,45022,Operations,2017-07-27,Active
+123,Rebecca Williams,26,Chicago,37358,Operations,2016-10-12,Active
+124,Jennifer Jackson,56,Chicago,76978,HR,2019-01-22,Active
+125,Gerald Hopkins,42,Los Angeles,92440,Finance,2017-11-06,Active
+126,Mason Avery,36,Phoenix,52175,HR,2016-11-29,Active
+127,Jesus Mathis,54,Los Angeles,39322,HR,2021-12-16,Resigned
+128,Jason Smith,21,New York,91871,Operations,2015-11-04,Resigned
+129,April Mcknight,32,Houston,97484,IT,2018-06-25,Active
+130,Daniel Brown,30,Chicago,96908,Marketing,2019-01-15,Active
+131,Anthony Thompson,31,Los Angeles,65635,HR,2024-06-07,Resigned
+132,Cynthia Kennedy,60,Chicago,92091,HR,2024-03-19,Resigned
+133,Sheena Cooper,44,Los Angeles,93755,Operations,2020-03-12,Active
+134,Kevin Duncan,20,Phoenix,41692,Marketing,2020-12-09,Active
+135,Michael Myers,34,Phoenix,53012,IT,2017-10-19,Resigned
+136,Wendy Chang,25,New York,92966,Operations,2024-10-30,Active
+137,Leonard Johnson,28,Los Angeles,52766,IT,2015-05-04,Active
+138,Kenneth Ferguson,41,Houston,57362,IT,2023-10-21,Resigned
+139,Kelly Webb,56,New York,67781,IT,2018-02-11,Active
+140,Jennifer Freeman,28,Chicago,73107,Operations,2019-05-16,Resigned
+141,Mark Hamilton,52,Chicago,30632,Marketing,2015-04-04,Active
+142,Rachel Harris,27,Houston,78306,Operations,2023-06-04,Active
+143,Anthony Miller,51,Chicago,40311,Operations,2020-04-17,Resigned
+144,Karen Decker,43,New York,45999,Operations,2017-07-05,Active
+145,Courtney Tran,48,Los Angeles,95032,Operations,2024-08-03,Active
+146,Chad Reese,32,Los Angeles,81189,Marketing,2024-10-23,Resigned
+147,Keith Booker,37,Houston,34979,Operations,2016-06-18,Active
+148,Jose Perry,37,Phoenix,61357,Marketing,2020-12-08,Active
+149,Fernando Nelson,25,Chicago,82096,HR,2017-02-25,Active
+150,Nancy Gonzalez,36,Chicago,79838,IT,2020-04-11,Resigned
+151,Tyler Chen,24,Phoenix,58136,Finance,2018-07-15,Active
+152,Diane Anderson,37,Los Angeles,64084,HR,2017-02-17,Resigned
+153,Alex Nelson,33,Los Angeles,40635,HR,2020-11-18,Resigned
+154,Peter Smith,42,Chicago,73229,Operations,2020-10-15,Resigned
+155,Sara Cook,53,Houston,92016,Operations,2024-04-19,Active
+156,Grace Clay,39,Los Angeles,83346,Operations,2021-08-21,Resigned
+157,Stephen Martin,50,Los Angeles,41296,Marketing,2021-11-14,Active
+158,Billy Romero,55,Phoenix,89093,Operations,2016-04-21,Active
+159,Amy Yu,19,Chicago,57862,IT,2022-02-26,Active
+160,Jacob James,24,Los Angeles,86833,HR,2021-09-03,Active
+161,Angel Lawrence,22,Phoenix,75796,Finance,2016-01-23,Resigned
+162,Matthew Sanchez,42,Los Angeles,70795,HR,2019-10-07,Resigned
+163,Lance Dennis,39,Chicago,77284,Finance,2017-02-17,Active
+164,Elizabeth Berg,53,Los Angeles,55009,Finance,2017-05-22,Resigned
+165,Kimberly Zimmerman,42,Phoenix,80334,Finance,2020-02-03,Resigned
+166,Kristen Mack,40,Los Angeles,38068,Operations,2015-05-05,Resigned
+167,Tamara Townsend,28,Los Angeles,32049,Operations,2023-01-03,Resigned
+168,Joseph Benjamin,37,Chicago,90982,Marketing,2018-03-14,Active
+169,Kaitlyn Morris,37,Los Angeles,45372,HR,2018-11-15,Resigned
+170,Alexander Callahan,49,Chicago,60296,Finance,2015-04-03,Active
+171,Jordan Lewis,23,Houston,77961,IT,2021-09-18,Active
+172,Kathleen Thompson,26,Phoenix,40723,Finance,2015-10-08,Active
+173,Colin Thompson,44,Houston,47712,Marketing,2018-03-31,Active
+174,Natasha Wright,31,Chicago,70237,Finance,2015-07-13,Resigned
+175,Jacqueline Thompson,23,Phoenix,72776,HR,2017-07-29,Active
+176,Donna Jones,49,New York,35424,Operations,2019-02-27,Resigned
+177,Kimberly Garcia,55,Phoenix,78301,Operations,2017-01-19,Resigned
+178,Dawn Murphy,26,Los Angeles,58295,IT,2015-11-01,Active
+179,Rebecca Smith,53,Phoenix,62220,Operations,2015-02-28,Resigned
+180,Matthew White,24,New York,83351,Operations,2018-06-15,Resigned
+181,Kenneth Howard,23,Phoenix,88277,HR,2016-08-14,Active
+182,Kathryn Klein,46,Phoenix,96499,HR,2017-10-07,Active
+183,Sean Smith,38,Phoenix,58434,Operations,2015-11-20,Resigned
+184,Nancy Miller,56,Los Angeles,61919,Marketing,2023-08-13,Resigned
+185,Melissa Payne,45,Phoenix,77655,Finance,2022-04-18,Resigned
+186,Joel Lopez,33,Houston,62932,IT,2024-11-17,Resigned
+187,Tracy Smith,59,Phoenix,51343,Operations,2014-12-06,Active
+188,Jesus Clayton,36,Phoenix,50132,IT,2019-01-02,Active
+189,Mr. Dillon White,33,Phoenix,94898,Finance,2023-01-23,Active
+190,Edward Hancock,31,Chicago,48369,Operations,2020-12-29,Resigned
+191,Michael Henson,55,Chicago,99147,IT,2023-09-12,Resigned
+192,Linda Gamble,25,Phoenix,81151,Operations,2022-06-22,Active
+193,Kathy Mitchell,36,Phoenix,39587,Marketing,2019-04-02,Resigned
+194,Terry Oneal,39,New York,65710,IT,2016-12-22,Resigned
+195,Daniel Morales,47,Phoenix,41632,Finance,2022-10-14,Active
+196,Kristine Rasmussen,60,Phoenix,75280,IT,2015-02-05,Active
+197,Julia Gutierrez,48,Los Angeles,68275,Finance,2023-03-26,Active
+198,Victoria Wilson,23,Phoenix,65698,HR,2023-05-09,Active
+199,Austin Johnson,37,Houston,36019,Operations,2016-03-30,Active
+200,Perry Matthews,59,New York,67582,Finance,2016-08-31,Active
